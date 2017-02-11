@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Emoji Dictionary/AppDelegate.swift"
+            timestampString = "508476177.512457"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.AppDelegate.__deallocating_deinit"
+                  moduleName = "Emoji Dictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Scott/Desktop/Emoji%20Dictionary/Emoji%20Dictionary/AppDelegate.swift"
+                  timestampString = "508476177.521737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.AppDelegate.init () -&gt; Emoji_Dictionary.AppDelegate"
+                  moduleName = "Emoji Dictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Scott/Desktop/Emoji%20Dictionary/Emoji%20Dictionary/AppDelegate.swift"
+                  timestampString = "508476177.526235"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.AppDelegate.__allocating_init () -&gt; Emoji_Dictionary.AppDelegate"
+                  moduleName = "Emoji Dictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Scott/Desktop/Emoji%20Dictionary/Emoji%20Dictionary/AppDelegate.swift"
+                  timestampString = "508476177.529863"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Emoji Dictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Scott/Desktop/Emoji%20Dictionary/Emoji%20Dictionary/AppDelegate.swift"
+                  timestampString = "508476177.533804"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

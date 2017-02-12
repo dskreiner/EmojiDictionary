@@ -28,8 +28,7 @@ class DefinitionViewController: UIViewController {
         definitionLabel.text = emoji.definition
         categoryLabel.text = "Category: \(emoji.category)"
         
-    
-//        definitionLabel.text = "Hello"
+
     }
 
     override func didReceiveMemoryWarning() {
